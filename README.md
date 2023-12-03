@@ -1,6 +1,6 @@
 # Machine Learning Repository
 
-Welcome to the Machine Learning repository! 🚀
+Welcome to the Machine Learning repository! 🚀 These files are based on my academic essays and each one (one per branch) describes another topic.
 
 This repository is dedicated to exploring various Machine Learning techniques using Python. While it's not created entirely from scratch like some of our previous repositories, it leverages knowledge gained from our endeavors in Classification Techniques, Techniques of Multidimensional Statistical Analysis, Computational Intelligence, and Neural Networks. 🧠
 
