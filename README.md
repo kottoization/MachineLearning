@@ -17,4 +17,5 @@ This repository is dedicated to exploring various Machine Learning techniques us
 
 - **Diverse ML Techniques**: Different branches within this repository host various ML techniques. Explore these branches to gain insights into distinct ML methodologies and implementations. 🌐
 - [Lab1 - revision](https://github.com/kottoization/MachineLearning/tree/Lab1---repetition-of-bachelor's-knowledge)
+- [Lab2 - missing values](https://github.com/kottoization/MachineLearning/tree/Lab2-Missing-values)
 ---
