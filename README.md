@@ -15,7 +15,7 @@ This repository is dedicated to exploring various Machine Learning techniques us
 
 ## Branch Structure
 
-- **Diverse ML Techniques**: Different branches within this repository host various ML techniques. Explore these branches to gain insights into distinct ML methodologies and implementations. 🌐
+- **Diverse ML Techniques**: Different branches within this repository host various ML techniques. Explore these branches to gain insights into distinct ML methodologies and implementations. 🌐 Labs 3-6 are in polish for now, that's gonna be changed in the near future and also reports with conclusions and brother descriptions will be added.
 - [Lab1 - revision](https://github.com/kottoization/MachineLearning/tree/Lab1---repetition-of-bachelor's-knowledge)
 - [Lab2 - missing values](https://github.com/kottoization/MachineLearning/tree/Lab2-Missing-values)
 ---
