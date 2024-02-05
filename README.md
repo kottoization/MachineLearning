@@ -11,8 +11,8 @@ This repository is dedicated to exploring various Machine Learning techniques us
     - [PSFP Problem from scratch with different metaheuristics](https://github.com/kottoization/PFSP-from-scratch-in-Python)
     - [Classification Techniques](https://github.com/kottoization/classification-techniques)
     - [Techniques of Multidimensional Statistical Analysis](https://github.com/kottoization/-techniques-of-multidimensional-statistical-analysis)
-    - [Neural Networks from scratch](https://github.com/username/neural-networks-repo) 
-
+    - [Neural Networks from scratch](https://github.com/kottoization/artificial-neural-network-from-scratch)
+      
 ## Branch Structure
 
 - **Diverse ML Techniques**: Different branches within this repository host various ML techniques. Explore these branches to gain insights into distinct ML methodologies and implementations. 🌐 Labs 3-6 are in polish for now, that's gonna be changed in the near future and also reports with conclusions and brother descriptions will be added.
