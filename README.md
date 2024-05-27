@@ -23,3 +23,4 @@ This repository is dedicated to exploring various Machine Learning techniques us
 - [Lab5 - SVM algorithm](https://github.com/kottoization/MachineLearning/tree/Lab5-SVM-algorithm)
 - [Lab6 - oversampling and undersampling](https://github.com/kottoization/MachineLearning/tree/Lab6-Oversampling-and-undersampling)
 ---
+ 
